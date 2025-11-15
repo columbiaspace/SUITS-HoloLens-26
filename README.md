@@ -30,6 +30,7 @@ Meet our stellar crew navigating the NASA SUITS challenge:
 - Andrew (B)
 - Ava
 - Thea
+- Alex Tu
 
 May the code be with you, intrepid space explorer! 🚀🌌
 
